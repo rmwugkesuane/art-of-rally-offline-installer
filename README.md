@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Race in the golden era of rally. Drive iconic cars from the 60s to Group B on challenging stages through stylized environments inspired by real worldwide locations. Will you master the art of rally?
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,14 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Min:  / Rec: Windows 10 | Mac OS 10.13 |
+| **Processor** | Min: Intel Core i3 2.9 GHz or AMD equivalent / Rec: Intel Core i5 3.6 GHz or AMD equivalent | Intel Core i3 2.9 GHz or AMD equivalent |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: Nvidia GeForce GTX650 or AMD equivalent / Rec: Nvidia GeForce GTX970 or AMD equivalent | Nvidia GeForce GTX650 or AMD equivalent |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 8 GB available space | 8 GB available space |
+| **OS *** | Windows 8 | Windows 8 |
+| **Additional Notes** | — | MacBook Pro or iMac recommended |
 
 ---
 
